@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         orderButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+//                gotoMain2Activity();
                 submitOrder();
             }
         });
@@ -79,6 +80,11 @@ public class MainActivity extends AppCompatActivity {
                 total.setText("" + price);
             }
         });
+    }
+
+    private void gotoMain2Activity() {
+        Intent intent = new Intent(this, Main2Activity.class);
+        startActivity(intent);
     }
 
     /**

@@ -6,4 +6,9 @@
     android:layout_height="match_parent"
     tools:context="com.paung.coffeshop.Main2Activity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="main2Activity"/>
+
 </android.support.constraint.ConstraintLayout>
