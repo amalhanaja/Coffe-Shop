@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coffe Shop</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="order">Order</string>
+    <string name="name">name</string>
+    <string name="whipped_cream">Cream</string>
+    <string name="chocolate">cokelat</string>
+    <string name="quantity">Quantity</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="toppings">Toppings</string>
+</resources>
